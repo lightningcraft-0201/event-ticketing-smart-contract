@@ -45,5 +45,5 @@ The smart contract is written in **Solidity** and deployed on the Ethereum block
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/event-ticketing-smart-contract.git
+   git clone https://github.com/lightningcraft-0201/event-ticketing-smart-contract
    cd event-ticketing-smart-contract
